@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # todos los días a medianoche UTC
-  workflow_dispatch:      # también puedes ejecutarlo manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -19,10 +19,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Commit and push to output branch
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: dist
+          author_name: github-actions
+          author_email: actions@github.com
+          message: "generate snake contribution graph"
+          add: "dist"
+          push: origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
