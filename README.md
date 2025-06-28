@@ -39,6 +39,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+
+![snake gif](https://github.com/Angelo270204/Angelo270204/blob/output/github-contribution-grid-snake.svg)
+
+---
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </div>
