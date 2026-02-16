@@ -1,17 +1,21 @@
-<h1 align="center"><b>¡Hola! Soy Angelo Rubiños</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <b>¡Hola! Soy Angelo Rubiños</b> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7D746&center=true&vCenter=true&width=700&lines=Backend+Developer;Especialista+en+Java+%26+Spring+Boot;Estudiante+de+Ingenier%C3%ADa+de+Sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F7D746&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Estudiante+de+Ingeniería+de+Sistemas" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Sistemas**.
-- 💻 Desarrollador Web con enfoque especializado en el **Backend**.
-- 🛠️ Dominio del ecosistema de **Spring**, construyendo APIs REST robustas y escalables.
-- 🎯 Aplicando activamente buenas prácticas: Validaciones (Bean Validation), Documentación (Swagger) y Clean Code.
+- 🎓 Estudiante de **Ingeniería de Sistemas (9.º ciclo)**.
+- 💻 Java Backend Developer enfocado en la construcción de **APIs REST con Spring Boot**.
+- 🛠️ Experiencia desarrollando aplicaciones seguras, escalables y listas para producción.
+- 🐧 Usuario de Linux como entorno principal y Docker para contenedorización.
+- 🎯 Actualmente buscando **prácticas profesionales como Backend Developer**.
 
 ---
 
@@ -23,7 +27,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-### 📚 Frameworks y Backend (Spring Ecosystem)
+### 📚 Backend — Spring Ecosystem
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -46,6 +50,7 @@
 ![snake gif](https://github.com/Angelo270204/Angelo270204/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </div>
